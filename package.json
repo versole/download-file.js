@@ -1,6 +1,6 @@
 {
-  "name": "download-file.js",
-  "version": "1.0.0",
+  "name": "got-file",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
